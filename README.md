@@ -4,8 +4,7 @@
 ## Main Menu
 The menu lets you navigate between adding or curation of existing entries. It additionally offers analytic insights which help to reflect on past spendings.
 The application lets you also backup your spendings to .csv or .json into your iCloud account.
-<img src="images/MainMenuDark.png" width="200">
-<img src="images/MainMenu.png" width="200">
+<img src="images/MainMenuDark.png" width="200"><img src="images/MainMenu.png" width="200">
 
 
 ## Add Expenses
@@ -85,8 +84,7 @@ You may customize and manage the stored data and dropdown selection values via t
 ### Maintaining Dropdown Values
 You may maintain the dropdown values via this option. If you feel the option list became too long and too many rarely used options are in the list you may remove them here (note: loading older spendings which uses any of the removed options will automatically add them back to the list)
 
-<img src="images/SettingsVendorDropdown.png" width="200">
-<img src="images/SettingsCategoryDropdown.png" width="200">
+<img src="images/SettingsVendorDropdown.png" width="200"><img src="images/SettingsCategoryDropdown.png" width="200">
 
 ## Delete Data
 You may remove all stored spendings you have stored but also all values in the dropdown values. This is a irreversable operation. Please be cautions.
